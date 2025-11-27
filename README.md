@@ -10,7 +10,7 @@ I am a full-stack developer from Bangladesh with expertise in both front-end and
 - 🔭 I’m currently working on web development projects with React, Laravel, and PHP.
 - 🌱 I’m currently learning advanced topics in full-stack development and exploring cloud technologies.
 - 💬 Ask me about web development, PHP, React, Laravel, and MySQL.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mokaddes-ali) | [Email](mailto:mokaddes.ali@example.com)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mokaddes-ali-bd) | [Email](mailto:coderali.bd@gmail.com)
 ---
 
 ## Languages and Tools:
